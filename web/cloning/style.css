@@ -1,0 +1,155 @@
+*
+
+body
+{
+     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#171031+0,3f4c6b+100 */
+background: #171031; /* Old browsers */
+background: -moz-linear-gradient(top,  #171031 0%, #3f4c6b 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #171031 0%,#3f4c6b 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #171031 0%,#3f4c6b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#171031', endColorstr='#3f4c6b',GradientType=0 ); /* IE6-9 */
+
+}
+.Zubia
+{
+    float: left;
+    list-style-type: none;
+    margin-top: 18px;
+    margin-left: 30px;
+}
+.zubia li
+{
+    display: inline-block;
+}
+
+.zubia li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20 px;
+    font-family: "Roboto",sans-serif;
+    font-size: 28px;
+}
+.main-nav
+{
+    float: right;
+    list-style: none;
+    margin-top: 30;
+}
+
+.main-nav li
+{
+    display: inline-block;
+}
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto" , sans-serif;
+    font-size: 15px;
+}
+.main-nav li.active a
+{
+    border: 1px solid white;
+    border-radius: 35px;
+}
+.lcon img
+{
+    width: 20px;
+    height: auto;
+    float: left;
+    margin-top: 100px;
+    margin-left: -120px;
+
+}
+.extract
+{
+    float: left;
+    margin-top: 130px;
+    margin-left: -100;
+
+}
+.extract li
+{
+    display: inline-block;
+
+}
+.extract li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+}
+.ilus img
+{
+    width: 670px;
+    height: auto;
+    float: right;
+    margin-top:-220px;
+    margin-left: 600px;
+
+}
+.data
+{
+    float: left;
+    margin-top: 60px;
+    margin-left: -10;
+}
+.data li
+{
+    display: inline-block;
+
+}
+.data li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 20px 50px;
+    font-family: "Roboto",sans-serif;
+    font-size: 50px;
+}
+.time
+{
+    float: left;
+    margin-top: -240px;
+    margin-left: -10;
+}
+.time li
+{
+    display: inline-block;
+
+}
+.time li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 30px 50px;
+    font-family: "Roboto",sans-serif;
+    font-size: 20px;
+}
+.get
+{
+    float: left;
+    list-style: none;
+    margin-top: -120px;
+    margin-left: 75px;
+    color: white;
+}
+.get li 
+{
+    display: inline-block;
+}
+.get li a
+{
+    background-color: orangered;
+    border:6px solid orangered;
+    border-radius: 35px;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto",sans-serif;
+    font-size: 10px;
+    color:#ffffff;
+}
